@@ -1,3 +1,5 @@
+This is the Pony Branch 
+*Learning about merging 
 The Rainbow and The Unicorn 
 *practicing a branch
 This is a practice file
